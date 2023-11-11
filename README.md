@@ -1,2 +1,2 @@
-# 01-Git
+# 01-Git \ GitHub
 Java Basic Git
