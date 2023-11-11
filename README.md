@@ -1,2 +1,2 @@
-# 01-GH
+# 01-GitH
 Java Basic Git
